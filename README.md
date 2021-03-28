@@ -24,7 +24,8 @@ Arch linux ou Derivados:
 sudo pacman -S gtest
 ```
 Caso você meu companheiro, companheira não tenha instalado
-o kit básico de desenvolvimento Também instale o **cmake**, **git**.
+o kit básico de desenvolvimento,
+também instale o **cmake**, **git**.
 
 Ubuntu ou outros derivados do Debian:
 ```shell
