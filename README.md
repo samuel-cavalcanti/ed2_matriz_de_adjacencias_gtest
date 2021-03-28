@@ -23,6 +23,19 @@ Arch linux ou Derivados:
 ```shell
 sudo pacman -S gtest
 ```
+Caso você meu companheiro, companheira não tenha instalado
+o kit básico de desenvolvimento Também instale o **cmake**, **git**.
+
+Ubuntu ou outros derivados do Debian:
+```shell
+sudo apt install build-essential git cmake 
+```
+
+Arch linux ou Derivados:
+
+```shell
+sudo pacman -S git base-devel cmake
+```
 
 ### Como testar no linux
 
